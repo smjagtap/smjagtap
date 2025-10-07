@@ -43,7 +43,7 @@ Currently, I'm expanding my skill set by diving into **Python programming** to e
 - **Security**: SELinux, auditing, SSH hardening
 
 ---
-[We can also use : ]:#
+[We can also use :https://skillicons.dev/icons?i=c,java,python,aws,linux,mongodb,nodejs,mysql,html,css,git,github&perline=6 ]:#
 
 ### Language and Skills
 <div align="left">
