@@ -35,13 +35,15 @@ Currently, I'm expanding my skill set by diving into **Python programming** to e
 
 ### 🛠️ Tech Stack
 
-- **OS**: Red Hat / CentOS / Ubuntu  
+- **OS**: Red Hat / CentOS / Alma / Rocky Linux /Ububtu  
 - **Containers**: Docker, Podman  
-- **Automation**: Ansible, Bash  
-- **Scripting**: Python (Learning), Shell  
-- **Tools**: Git, GitHub, Jenkins, systemd, firewalld  
-- **Security**: SELinux, auditing, SSH hardening
-
+- **Automation**: Ansible, Bash, Kickstart  
+- **Scripting**: Python (Learning), Shell 
+- **Tools**: Git, GitHub , Rear, Leapp, Reposync, Convert2rhel
+- **Security**: SELinux, auditing, SSH hardening, Usb Guard ,Luks ,AIDE ,OpenSCAP
+- **Virtulization**: KVM, Virtual Box, Vmware
+- **Monitoring Tools**:Monotorix,Nagois,Fail2Ban
+- **MTA**: Qmail,Postfix
 ---
 [We can also use :https://skillicons.dev/icons?i=c,java,python,aws,linux,mongodb,nodejs,mysql,html,css,git,github&perline=6 ]:#
 
